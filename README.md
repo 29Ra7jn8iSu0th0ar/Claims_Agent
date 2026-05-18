@@ -417,4 +417,4 @@ python -m app.main
 
 ---
 
-*Built to demonstrate production-realistic thinking about operational AI in regulated workflows. Every architectural decision in this system exists for a reason that can be explained to a compliance officer, a regulator, or a senior engineer.*"
+*Built to demonstrate production-realistic thinking about operational AI in regulated workflows. Every architectural decision in this system exists for a reason that can be explained to a compliance officer, a regulator, or a senior engineer.*
