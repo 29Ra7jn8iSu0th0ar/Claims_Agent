@@ -1,4 +1,4 @@
-"# Operational Claims Intelligence Agent
+# Operational Claims Intelligence Agent
 
 A production-realistic agentic workflow system for insurance and warranty claim processing. Built to demonstrate how operational AI should work in regulated, high-stakes environments — where deterministic correctness matters more than autonomy, and every decision must be explainable.
 
